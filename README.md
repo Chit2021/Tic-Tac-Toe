@@ -23,3 +23,6 @@ game.js: This file contains the logic of the game.
 ### How to run?
 
 Run index.html in browser.
+
+### Check Me here:
+https://chit2021.github.io/Tic-Tac-Toe/
