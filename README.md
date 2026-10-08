@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Basic javascript game
+Basic javascript game 
 
 In this project, we will create a Tic-Tac-Toe Game using JavaScript. 
 We will be using validation checks to implement the game features. 
